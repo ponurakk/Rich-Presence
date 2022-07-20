@@ -1,0 +1,14 @@
+{
+    "clientId": "000000000000000000",
+    "songCmd": "mocp --format %song",
+    "artistCmd": "mocp --format %artist",
+    "albumCmd": "mocp --format %album",
+    "currentTimeCmd": "mocp --format %cs",
+    "useImg": true,
+    "imgDir": "/home/user/Album Covers",
+    "covers": [
+        "Album 1",
+        "Album 2"
+    ],
+    "default": "default"
+}
